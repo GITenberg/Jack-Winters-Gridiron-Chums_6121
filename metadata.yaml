@@ -1,0 +1,27 @@
+_repo: Jack-Winters-Gridiron-Chums_6121
+creator:
+  author:
+    agent_name: Overton, Mark
+    gutenberg_agent_id: '1957'
+    url: http://www.gutenberg.org/2009/agents/1957
+description: '"A shrill whistle sounded over the field where almost two dozen sturdily
+  built boys in their middle ''teens, clad in an astonishing array of old and new
+  football togs, had been struggling furiously. Instantly the commotion ceased as
+  if by magic at this intimation from the coach, who also acted in practice as referee
+  and umpire combined, that the ball was to be considered "dead."-excerpt.'
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6121'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Football -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PS'
+title: Jack Winters' Gridiron Chums
+url: http://www.gutenberg.org/ebooks/6121
