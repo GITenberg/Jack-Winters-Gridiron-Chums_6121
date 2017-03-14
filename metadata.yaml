@@ -1,5 +1,8 @@
 _repo: Jack-Winters-Gridiron-Chums_6121
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Overton, Mark
@@ -10,6 +13,8 @@ description: '"A shrill whistle sounded over the field where almost two dozen st
   football togs, had been struggling furiously. Instantly the commotion ceased as
   if by magic at this intimation from the coach, who also acted in practice as referee
   and umpire combined, that the ball was to be considered "dead."-excerpt.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6121#Jack-Winters-Gridiron-Chums
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
