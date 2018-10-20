@@ -1,5 +1,5 @@
 _repo: Jack-Winters-Gridiron-Chums_6121
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ subjects:
 - !lcc 'PZ'
 - !lcsh 'Friendship -- Juvenile fiction'
 - !lcc 'PS'
+- GITenberg
 title: Jack Winters' Gridiron Chums
 url: http://www.gutenberg.org/ebooks/6121
